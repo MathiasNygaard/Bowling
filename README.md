@@ -1,2 +1,2 @@
-# Bowling
-A game of bowling
+# MrBowling
+A game about bowling
